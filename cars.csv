@@ -1,0 +1,19 @@
+Brand,Name,Model,Year,Body Type,Fuel Type,Engine ,Transmission,Mileage ,Seating Capacity,Price
+Toyota,Camry,LE,2022,Sedan,Petrol,2.5,Automatic,15,5,26000
+Honda,Civic,EX,2021,Sedan,Petrol,2.0,Automatic,16,5,24000
+Tesla,Model S,Long Range,2023,Sedan,Electric,0.0,Automatic,650,5,90000
+Ford,Mustang,GT,2022,Coupe,Petrol,5.0,Manual,10,4,55000
+BMW,X5,xDrive40i,2022,SUV,Petrol,3.0,Automatic,12,5,65000
+Audi,A4,Premium,2021,Sedan,Petrol,2.0,Automatic,14,5,42000
+Nissan,Altima,SV,2022,Sedan,Petrol,2.5,Automatic,15,5,25000
+Hyundai,Elantra,SEL,2021,Sedan,Petrol,2.0,Automatic,18,5,21000
+Mazda,CX-5,Touring,2022,SUV,Petrol,2.5,Automatic,14,5,28000
+Jeep,Wrangler,Sport,2021,SUV,Petrol,3.6,Manual,11,5,35000
+Mercedes-Benz,C-Class,C300,2023,Sedan,Petrol,2.0,Automatic,14,5,48000
+Cadillac,Escalade,Luxury,2022,SUV,Petrol,6.2,Automatic,8,7,80000
+Chevrolet,Tahoe,LS,2023,SUV,Petrol,5.3,Automatic,9,7,55000
+Dodge,Charger,R/T,2022,Sedan,Petrol,5.7,Automatic,10,5,42000
+Ram,Ram 1500,Big Horn,2022,Truck,Petrol,5.7,Automatic,9,5,51000
+Kia,Sorento,EX,2023,SUV,Hybrid,1.6,Automatic,18,7,35000
+Subaru,Outback,Premium,2022,Wagon,Petrol,2.5,Automatic,14,5,28000
+Volkswagen,ID.4,Pro,2023,SUV,Electric,0.0,Automatic,520,5,38000
